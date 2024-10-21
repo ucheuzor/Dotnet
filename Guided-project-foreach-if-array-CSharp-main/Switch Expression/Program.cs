@@ -69,22 +69,13 @@ switch (product[1])
         break;
 }
 
-switch (product[2])
+//new syntax for writing switch statement
+size = product[2] switch
 {
-    case "S":
-        size = "Small";
-        break;
-    case "M":
-        size = "Medium";
-        break;
-    case "L":
-        size = "Large";
-        break;
-    default:
-        size = "One Size Fits All";
-        break;
-
-}
-
+    "S" => "Small",
+    "M" => "Medium",
+    "L" => "Large",
+    _ => "One Size Fits All",
+};
 
 Console.WriteLine($"Product: {size} {color} {type}");
