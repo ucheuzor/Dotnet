@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\bin\Debug\net8.0\Switch Expression.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\bin\Debug\net8.0\Switch Expression.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\bin\Debug\net8.0\Switch Expression.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\bin\Debug\net8.0\Switch Expression.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\bin\Debug\net8.0\Switch Expression.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\refint\Switch Expression.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\Switch Expression.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Switch Expression\obj\Debug\net8.0\ref\Switch Expression.dll
