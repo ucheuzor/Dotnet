@@ -12,3 +12,4 @@ C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Guided
 C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
 C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
