@@ -1,0 +1,14 @@
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\bin\Debug\net8.0\Array Exercise.exe
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\bin\Debug\net8.0\Array Exercise.deps.json
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\bin\Debug\net8.0\Array Exercise.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\bin\Debug\net8.0\Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\bin\Debug\net8.0\Array Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\refint\Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\Array Exercise.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Array Exercise\obj\Debug\net8.0\ref\Array Exercise.dll

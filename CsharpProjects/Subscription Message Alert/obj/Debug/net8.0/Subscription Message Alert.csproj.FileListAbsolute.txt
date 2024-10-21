@@ -1,0 +1,14 @@
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\bin\Debug\net8.0\Subscription Message Alert.exe
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\bin\Debug\net8.0\Subscription Message Alert.deps.json
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\bin\Debug\net8.0\Subscription Message Alert.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\bin\Debug\net8.0\Subscription Message Alert.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\bin\Debug\net8.0\Subscription Message Alert.pdb
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\refint\Subscription Message Alert.dll
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.pdb
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\Subscription Message Alert.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\CsharpProjects\Subscription Message Alert\obj\Debug\net8.0\ref\Subscription Message Alert.dll
