@@ -9,6 +9,7 @@ string animalPhysicalDescription = "";
 string animalPersonalityDescription = "";
 string animalNickname = "";
 
+
 // variables that support data entry
 int maxPets = 8;
 string? readResult;
@@ -17,7 +18,6 @@ string menuSelection = "";
 // array used to store runtime data, there is no persisted data
 string[,] ourAnimals = new string[maxPets, 6];
 
-// TODO: Convert the if-elseif-else construct to a switch statement
 
 // create some initial ourAnimals array entries
 for (int i = 0; i < maxPets; i++)
@@ -112,13 +112,39 @@ do
     switch (menuSelection)
     {
         case "1":
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine();
+                    for (int j = 0; j < 6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j]);
+                    }
+                }
+            }
             readResult = Console.ReadLine();
             break;
 
         case "2":
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+
+            // Add a new animal friend to the ourAnimals array
+            string anotherPet = "y";
+            int petCount = 0;
+
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    petCount += 1;
+                }
+            }
+
+            if (petCount < maxPets)
+            {
+                Console.WriteLine($"We currenly have {petCount} pets that need homes. We can manage {maxPets - petCount} more.");
+            }
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
