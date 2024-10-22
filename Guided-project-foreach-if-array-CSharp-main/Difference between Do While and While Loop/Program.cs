@@ -20,7 +20,7 @@ do
         }
         else
         {
-            Console.WriteLine("Please select a role from one of the roles");
+            Console.WriteLine("Please select a role from one of the roles (Administrator, Manager, or User)");
         }
     }
     else
