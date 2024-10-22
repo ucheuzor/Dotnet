@@ -5,18 +5,22 @@ Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
 
 do
 {
-    userRole = Console.ReadLine().Trim().ToLower();
+    userRole = Console.ReadLine()?.Trim().ToLower();
 
     if (!string.IsNullOrEmpty(userRole))
     {
-        if (userRole != "admin")
+        if (userRole?.Trim().ToLower() == "administrator" || userRole?.Trim().ToLower() == "manager" || userRole?.Trim().ToLower() == "user")
         {
             Console.WriteLine($"Your input value ({CultureInfo.InvariantCulture.TextInfo.ToTitleCase(userRole)}) has been accepted.");
             break;
         }
-        else
+        else if (userRole == "admin")
         {
             Console.WriteLine("The role name that you entered, \"Admin\" is not valid. Enter your role name (Administrator, Manager, or User)");
+        }
+        else
+        {
+            Console.WriteLine("Please select a role from one of the roles");
         }
     }
     else
@@ -24,7 +28,7 @@ do
         Console.WriteLine("Invalid entry. Your input cannot be empty!");
     }
 
-} while (userRole.Trim().ToLower() != "administrator" || userRole.Trim().ToLower() != "manager" || userRole.Trim().ToLower() != "user");
+} while (userRole?.Trim().ToLower() != "administrator" || userRole?.Trim().ToLower() != "manager" || userRole?.Trim().ToLower() != "user");
 
 
 /* 
