@@ -23,7 +23,7 @@ while (heroHealth > 0 && monsterHealth > 0)
     }
     else
     {
-        Console.WriteLine($"Monster was damaged and lost {heroStrike} health and now has {monsterHealth} health.\n Hero Wins!");
+        Console.WriteLine($"Monster was damaged and lost {heroStrike} health and now has {monsterHealth} health.\nHero Wins!");
         break;
     }
 
@@ -35,7 +35,7 @@ while (heroHealth > 0 && monsterHealth > 0)
     }
     else
     {
-        Console.WriteLine($"Hero was damaged and lost {monsterStrike} health and now has {heroHealth} health.\n Monster Wins!");
+        Console.WriteLine($"Hero was damaged and lost {monsterStrike} health and now has {heroHealth} health.\nMonster Wins!");
     }
 
 }
