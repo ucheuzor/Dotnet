@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A Do While Exercise/1.0.0": {
+        "runtime": {
+          "A Do While Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A Do While Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

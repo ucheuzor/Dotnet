@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\bin\Debug\net8.0\A Do While Exercise.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\bin\Debug\net8.0\A Do While Exercise.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\bin\Debug\net8.0\A Do While Exercise.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\bin\Debug\net8.0\A Do While Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\bin\Debug\net8.0\A Do While Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\refint\A Do While Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\A Do While Exercise.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\A Do While Exercise\obj\Debug\net8.0\ref\A Do While Exercise.dll
