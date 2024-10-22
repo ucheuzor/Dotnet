@@ -55,10 +55,10 @@ for (int i = 0; i < maxPets; i++)
         case 4:
             animalSpecies = "cat";
             animalID = "c4";
-            animalAge = "?";
-            animalPhysicalDescription = "";
-            animalPersonalityDescription = "";
-            animalNickname = "";
+            animalAge = "7";
+            animalPhysicalDescription = "Short and cute";
+            animalPersonalityDescription = "Double Edge";
+            animalNickname = "Black Panther";
             break;
 
         default:
@@ -71,8 +71,6 @@ for (int i = 0; i < maxPets; i++)
             break;
 
     }
-
-
 
     ourAnimals[i, 0] = "ID #: " + animalID;
     ourAnimals[i, 1] = "Species: " + animalSpecies;
@@ -98,14 +96,78 @@ Console.WriteLine(" 8. Display all dogs with a specified characteristic");
 Console.WriteLine();
 Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 
-readResult = Console.ReadLine();
-if (readResult != null)
+do
 {
-    menuSelection = readResult.ToLower();
-}
+    readResult = Console.ReadLine();
+    if (readResult != null)
+    {
+        menuSelection = readResult.ToLower();
+    }
 
-Console.WriteLine($"You selected menu option {menuSelection}.");
-Console.WriteLine("Press the Enter key to continue");
+    /*
+        Console.WriteLine($"You selected menu option {menuSelection}.");
+        Console.WriteLine("Press the Enter key to continue");
+    */
 
-// pause code execution
+    switch (menuSelection)
+    {
+        case "1":
+            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "2":
+            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "3":
+            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "4":
+            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "5":
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "6":
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "7":
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        case "8":
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
+            break;
+
+        default:
+            break;
+
+    }
+} while (menuSelection != "exit");
+
+
+
+
+/* pause code execution
 readResult = Console.ReadLine();
+*/
