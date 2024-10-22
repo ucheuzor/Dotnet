@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\bin\Debug\net8.0\Difference between Do While and While Loop.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\bin\Debug\net8.0\Difference between Do While and While Loop.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\bin\Debug\net8.0\Difference between Do While and While Loop.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\bin\Debug\net8.0\Difference between Do While and While Loop.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\bin\Debug\net8.0\Difference between Do While and While Loop.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\refint\Difference between Do While and While Loop.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\Difference between Do While and While Loop.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Difference between Do While and While Loop\obj\Debug\net8.0\ref\Difference between Do While and While Loop.dll
