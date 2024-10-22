@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Difference between Do While and While Loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aa1267f9d1e30d7f63fd5125718af79ccddb0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e998917beb2b0a7859c7595fabe44eaeb47ec34a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Difference between Do While and While Loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Difference between Do While and While Loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
