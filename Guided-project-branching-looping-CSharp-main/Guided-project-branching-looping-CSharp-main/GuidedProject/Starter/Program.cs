@@ -50,7 +50,7 @@ for (int i = 0; i < maxPets; i++)
         case 3:
             animalSpecies = "cat";
             animalID = "c3";
-            animalAge = "1";
+            animalAge = "5";
             animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
             animalPersonalityDescription = "friendly";
             animalNickname = "Puss";
@@ -59,10 +59,10 @@ for (int i = 0; i < maxPets; i++)
         case 4:
             animalSpecies = "cat";
             animalID = "c4";
-            animalAge = "7";
-            animalPhysicalDescription = "Short and cute";
-            animalPersonalityDescription = "Double Edge";
-            animalNickname = "Black Panther";
+            animalAge = "?";
+            animalPhysicalDescription = "";
+            animalPersonalityDescription = "";
+            animalNickname = "";
             break;
 
         default:
@@ -281,7 +281,7 @@ do
                 {
                     do
                     {
-                        Console.WriteLine($"Enter an animal age for {ourAnimals[1, 0]}");
+                        Console.WriteLine($"Enter an animal age for {ourAnimals[i, 0]}");
                         readResult = Console.ReadLine();
 
                         if (readResult != null)
@@ -308,7 +308,7 @@ do
                         {
                             animalPhysicalDescription = readResult.ToLower();
 
-                            if (animalPersonalityDescription == "")
+                            if (animalPhysicalDescription == "")
                                 validEntry = false;
                             else
                                 validEntry = true;
@@ -326,9 +326,61 @@ do
             break;
 
         case "4":
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+            for (int i = 0; i < maxPets; i++)
+            {
+
+                //Check if Nickname is not entered
+                if (ourAnimals[i, 3] == "Nickname: " && ourAnimals[i, 0] != "ID #: ")
+                {
+                    do
+                    {
+                        Console.WriteLine($"Enter a Nickname for {ourAnimals[i, 0]}");
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            animalNickname = readResult.ToLower();
+
+                            if (animalNickname == "")
+                                validEntry = false;
+                            else
+                                validEntry = true;
+                        }
+
+                    } while (validEntry == false);
+
+                    ourAnimals[i, 3] = "Nickname: " + animalNickname;
+                }
+
+
+                //Check if Personality Description is not entered
+                if (ourAnimals[i, 5] == "Personality: " && ourAnimals[i, 0] != "ID #: ")
+                {
+                    do
+                    {
+                        Console.WriteLine($"Enter a Personality description for {ourAnimals[i, 0]} (likes or dislikes, tricks, energy level)");
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            animalPersonalityDescription = readResult.ToLower();
+
+                            if (animalPersonalityDescription == "")
+                                validEntry = false;
+                            else
+                                validEntry = true;
+                        }
+
+                    } while (validEntry == false);
+
+                    ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
+                }
+
+
+            }
+            Console.WriteLine("\n\rNickname and Personality description fields are complete for all of our friends. \n\rPress the Enter key to continue");
             readResult = Console.ReadLine();
+
             break;
 
         case "5":
