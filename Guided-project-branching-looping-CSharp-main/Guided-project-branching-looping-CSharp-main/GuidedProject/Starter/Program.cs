@@ -127,7 +127,6 @@ do
             break;
 
         case "2":
-
             // Add a new animal friend to the ourAnimals array
             string anotherPet = "y";
             int petCount = 0;
@@ -140,13 +139,59 @@ do
                 }
             }
 
-            if (petCount < maxPets)
+            bool validEntry = false;
+
+            do
             {
-                Console.WriteLine($"We currenly have {petCount} pets that need homes. We can manage {maxPets - petCount} more.");
+                Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
+                readResult = Console.ReadLine();
+
+                if (readResult != null)
+                {
+                    animalSpecies = readResult.ToLower();
+
+                    if (animalSpecies != "dog" && animalSpecies != "cat")
+                    {
+                        validEntry = false;
+                    }
+                    else
+                    {
+                        validEntry = true;
+                    }
+                }
+
+            } while (validEntry == false);
+
+
+            while (anotherPet == "y" && petCount < maxPets)
+            {
+                Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {maxPets - petCount} more.");
+
+                petCount += 1;
+
+                if (petCount < maxPets)
+                {
+                    Console.WriteLine("Do you want to enter info for another pet (y/n)");
+
+                    do
+                    {
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            anotherPet = readResult.ToLower();
+                        }
+
+                    } while (anotherPet != "y" && anotherPet != "n");
+                }
             }
 
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+            if (petCount >= maxPets)
+            {
+                Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
+                Console.WriteLine("Press the Enter key to continue.");
+                readResult = Console.ReadLine();
+            }
             break;
 
         case "3":
