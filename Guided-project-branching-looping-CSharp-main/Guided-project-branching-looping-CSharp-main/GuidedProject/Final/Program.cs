@@ -144,7 +144,7 @@ do
             while (anotherPet == "y" && petCount < maxPets)
             {
                 bool validEntry = false;
-                
+
                 // get species (cat or dog) - string animalSpecies is a required field 
                 do
                 {
@@ -272,8 +272,20 @@ do
 
         case "3":
             // Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+
+            for (int i = 0; i < maxPets; if++)
+                {
+                    if (ourAnimals[i, 2] == "Age: ?" && ourAnimals[i, 0] != "ID #: ")
+                    {
+                        do
+                        {
+
+                        } while (validEntry == false);
+
+                    }
+                }
+
+
             readResult = Console.ReadLine();
             break;
 
@@ -297,7 +309,7 @@ do
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
-        
+
         case "7":
             // Display all cats with a specified characteristic
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
