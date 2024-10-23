@@ -412,10 +412,3 @@ do
 
     }
 } while (menuSelection != "exit");
-
-
-
-
-/* pause code execution
-readResult = Console.ReadLine();
-*/
