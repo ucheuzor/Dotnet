@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\bin\Debug\net8.0\DataType Conversion.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\bin\Debug\net8.0\DataType Conversion.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\bin\Debug\net8.0\DataType Conversion.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\bin\Debug\net8.0\DataType Conversion.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\bin\Debug\net8.0\DataType Conversion.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\refint\DataType Conversion.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\DataType Conversion.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\DataType Conversion\obj\Debug\net8.0\ref\DataType Conversion.dll

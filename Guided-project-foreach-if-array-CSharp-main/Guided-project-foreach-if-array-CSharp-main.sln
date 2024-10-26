@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Do While Exercise", "A Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference between Do While and While Loop", "Difference between Do While and While Loop\Difference between Do While and While Loop.csproj", "{8AD24535-2F77-4CE2-9606-3F3CB791228F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType Conversion", "DataType Conversion\DataType Conversion.csproj", "{54777946-779C-4FDF-BBF3-D5345325FFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{8AD24535-2F77-4CE2-9606-3F3CB791228F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD24535-2F77-4CE2-9606-3F3CB791228F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD24535-2F77-4CE2-9606-3F3CB791228F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54777946-779C-4FDF-BBF3-D5345325FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54777946-779C-4FDF-BBF3-D5345325FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54777946-779C-4FDF-BBF3-D5345325FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54777946-779C-4FDF-BBF3-D5345325FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
