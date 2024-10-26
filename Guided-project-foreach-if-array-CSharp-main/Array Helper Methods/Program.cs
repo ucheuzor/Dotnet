@@ -1,4 +1,23 @@
-﻿
+﻿string value = "abcd1234";
+
+char[] valueArray = value.ToCharArray();
+
+Array.Reverse(valueArray);
+
+string result = new string(valueArray);
+
+Console.WriteLine($"result: {result}");
+Console.WriteLine($"CharArray: {valueArray}");
+Console.WriteLine("");
+
+foreach (char arg in valueArray)
+{
+    Console.WriteLine(arg);
+}
+
+
+
+/* 
 string[] pallets = ["B14", "A11", "B12", "A13"];
 
 Console.WriteLine("Sorted...");
@@ -32,4 +51,4 @@ pallets[5] = "C02";
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"-- {pallet}");
-}
+} */
