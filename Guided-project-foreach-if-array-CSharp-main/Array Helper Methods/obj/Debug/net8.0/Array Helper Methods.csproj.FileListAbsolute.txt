@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\bin\Debug\net8.0\Array Helper Methods.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\bin\Debug\net8.0\Array Helper Methods.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\bin\Debug\net8.0\Array Helper Methods.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\bin\Debug\net8.0\Array Helper Methods.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\bin\Debug\net8.0\Array Helper Methods.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\refint\Array Helper Methods.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\Array Helper Methods.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\Array Helper Methods\obj\Debug\net8.0\ref\Array Helper Methods.dll
