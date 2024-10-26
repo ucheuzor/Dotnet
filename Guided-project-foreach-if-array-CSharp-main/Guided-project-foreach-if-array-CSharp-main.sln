@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType Conversion", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Helper Methods", "Array Helper Methods\Array Helper Methods.csproj", "{004812BC-03AE-479E-9907-0B09BAA5670D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Array Exercise", "More Array Exercise\More Array Exercise.csproj", "{E48BAF73-347A-431D-82CD-974DAB128840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{004812BC-03AE-479E-9907-0B09BAA5670D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{004812BC-03AE-479E-9907-0B09BAA5670D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{004812BC-03AE-479E-9907-0B09BAA5670D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48BAF73-347A-431D-82CD-974DAB128840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48BAF73-347A-431D-82CD-974DAB128840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48BAF73-347A-431D-82CD-974DAB128840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48BAF73-347A-431D-82CD-974DAB128840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

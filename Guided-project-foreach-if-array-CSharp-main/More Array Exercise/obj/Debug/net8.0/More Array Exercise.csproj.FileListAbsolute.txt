@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\bin\Debug\net8.0\More Array Exercise.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\bin\Debug\net8.0\More Array Exercise.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\bin\Debug\net8.0\More Array Exercise.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\bin\Debug\net8.0\More Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\bin\Debug\net8.0\More Array Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\refint\More Array Exercise.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\More Array Exercise.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\More Array Exercise\obj\Debug\net8.0\ref\More Array Exercise.dll
