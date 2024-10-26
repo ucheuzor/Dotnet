@@ -17,7 +17,7 @@ foreach (char arg in valueArray)
 
 
 
-/* 
+
 string[] pallets = ["B14", "A11", "B12", "A13"];
 
 Console.WriteLine("Sorted...");
@@ -51,4 +51,4 @@ pallets[5] = "C02";
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"-- {pallet}");
-} */
+}
