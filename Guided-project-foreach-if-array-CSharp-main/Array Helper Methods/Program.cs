@@ -12,9 +12,24 @@ foreach (var pallet in pallets)
 
 
 
-Array.Clear(pallets, 1, 2);
+Array.Clear(pallets, 0, 2);
 Console.WriteLine($"Clearing 2 ... count: {pallets.Length}");
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"...{pallet}");
+}
+
+//Resizing the array
+
+Console.WriteLine("");
+Array.Resize(ref pallets, 6);
+
+Console.WriteLine($"Resizing 6 ... count: {pallets.Length}");
+
+pallets[4] = "C01";
+pallets[5] = "C02";
+
+foreach (var pallet in pallets)
+{
+    Console.WriteLine($"-- {pallet}");
 }

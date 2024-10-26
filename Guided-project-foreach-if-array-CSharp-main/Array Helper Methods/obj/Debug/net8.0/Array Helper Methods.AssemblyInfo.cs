@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array Helper Methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b195c286df7f53b37025aef71d7256992e29710e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de83f142370e9fdbf82df7150bb4f6b8f4dd5491")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array Helper Methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array Helper Methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
