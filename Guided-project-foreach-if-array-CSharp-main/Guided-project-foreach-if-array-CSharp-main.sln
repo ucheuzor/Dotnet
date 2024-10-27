@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Helper Methods", "Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Array Exercise", "More Array Exercise\More Array Exercise.csproj", "{E48BAF73-347A-431D-82CD-974DAB128840}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Formatting", "String Formatting\String Formatting.csproj", "{0D5BD1E7-5317-4F7C-85E4-C497D986DD29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{E48BAF73-347A-431D-82CD-974DAB128840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E48BAF73-347A-431D-82CD-974DAB128840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E48BAF73-347A-431D-82CD-974DAB128840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5BD1E7-5317-4F7C-85E4-C497D986DD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5BD1E7-5317-4F7C-85E4-C497D986DD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5BD1E7-5317-4F7C-85E4-C497D986DD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5BD1E7-5317-4F7C-85E4-C497D986DD29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

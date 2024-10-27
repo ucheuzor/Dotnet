@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\bin\Debug\net8.0\String Formatting.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\bin\Debug\net8.0\String Formatting.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\bin\Debug\net8.0\String Formatting.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\bin\Debug\net8.0\String Formatting.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\bin\Debug\net8.0\String Formatting.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\refint\String Formatting.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\String Formatting.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-foreach-if-array-CSharp-main\String Formatting\obj\Debug\net8.0\ref\String Formatting.dll
