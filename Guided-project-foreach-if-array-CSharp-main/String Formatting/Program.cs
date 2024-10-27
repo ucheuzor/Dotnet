@@ -25,13 +25,9 @@ comparisonMessage += String.Format("{0:C}", newProfit).PadRight(20);
 Console.WriteLine(comparisonMessage);
 
 
-/* 
-
 // Your logic here
 
 Console.WriteLine("Here's a quick comparison:\n");
-
-string comparisonMessage = "";
 
 // Your logic here
 
@@ -85,4 +81,3 @@ decimal salePrice = 59.99m;
 
 decimal discountPrice = Itemprice - salePrice;
 Console.WriteLine($"A discount of {discountPrice / Itemprice:P2} was applied");
- */
