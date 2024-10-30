@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String Helper Methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f1947aa108b490e361bc473d7ac09700c9ccc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc11be6a400300e472ab50ee8f7846712ce5966e")]
 [assembly: System.Reflection.AssemblyProductAttribute("String Helper Methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String Helper Methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

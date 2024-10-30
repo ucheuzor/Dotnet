@@ -1,4 +1,48 @@
 ﻿
+//More Examples with LastIndexOf
+using System.ComponentModel.DataAnnotations;
+
+string message = "(What if) I am (only interested) in the last (set of parentheses)?";
+
+while (true)
+{
+    int openingPosition = message.IndexOf('(');
+
+    if (openingPosition == -1)
+        break;
+
+    openingPosition += 1;
+
+    int closingPosition = message.IndexOf(')');
+
+    int length = closingPosition - openingPosition;
+    Console.WriteLine(message.Substring(openingPosition, length));
+
+    // Note the overload of the Substring to return only the remaining 
+    // unprocessed message:
+
+    message = message.Substring(closingPosition + 1);
+}
+
+
+
+
+/* 
+//More Examples with LastIndexOf
+using System.ComponentModel.DataAnnotations;
+
+string message = "(What if) I am (only interested) in the last (set of parentheses)?";
+
+int openingPosition = message.LastIndexOf('(');
+openingPosition += 1;
+
+int closingPosition = message.LastIndexOf(')');
+
+int length = closingPosition - openingPosition;
+
+Console.WriteLine(message.Substring(openingPosition, length));
+
+---------------------------------------------------------------------------------------------
 string message = "What is the value <span>between the tags</span>";
 
 const string openSpan = "<span>";
@@ -13,16 +57,17 @@ int length = closingPosition - openingPosition;
 
 Console.WriteLine(message.Substring(openingPosition, length));
 
-/*
-string message = "Find what is (inside the parentheses)";
 
-int openingPosition = message.IndexOf('(') + 1;
-int closingPosition = message.IndexOf(')');
+string messageTest = "Find what is (inside the parentheses)";
 
-int length = closingPosition - openingPosition;
+int openingPositionTest = messageTest.IndexOf('(') + 1;
+int closingPositionTest = messageTest.IndexOf(')');
 
-string result = message.Substring(openingPosition, length);
+int lengthTest = closingPositionTest - openingPositionTest;
 
-Console.WriteLine(result);
+string result = messageTest.Substring(openingPositionTest, lengthTest);
 
-*/
+Console.WriteLine(result); */
+
+
+
