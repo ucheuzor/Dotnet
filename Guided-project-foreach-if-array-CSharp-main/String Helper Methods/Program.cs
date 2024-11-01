@@ -1,6 +1,40 @@
-﻿
+﻿//C# code to extract specific text from sentence
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = "";
+string output = "";
+
+string span = "<span>";
+string div = "<div>";
+
+// Your work here
+int openingPosition = input.IndexOf(span) + span.Length;
+int closingPosition = input.IndexOf("</span>");
+int openingDivPosition = input.IndexOf(div) + div.Length;
+int closingDivPosition = input.IndexOf("</div>");
+
+int length = closingPosition - openingPosition;
+int Divlength = closingDivPosition - openingDivPosition;
+
+quantity = input.Substring(openingPosition, length);
+output = input.Substring(openingDivPosition, Divlength);
+
+
+
+Console.WriteLine(quantity);
+Console.WriteLine(output);
+
+
+
+
+
+/* 
+//Remove Character from string
+string data = "12345John Smith          5000  3  ";
+string updatedData = data.Remove(5, 20);
+Console.WriteLine(updatedData);
+
 //More Examples with LastIndexOf
-using System.ComponentModel.DataAnnotations;
 
 string message = "(What if) I am (only interested) in the last (set of parentheses)?";
 
@@ -24,10 +58,6 @@ while (true)
     message = message.Substring(closingPosition + 1);
 }
 
-
-
-
-/* 
 //More Examples with LastIndexOf
 using System.ComponentModel.DataAnnotations;
 
