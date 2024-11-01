@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\bin\Debug\net8.0\Reusable Method.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\bin\Debug\net8.0\Reusable Method.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\bin\Debug\net8.0\Reusable Method.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\bin\Debug\net8.0\Reusable Method.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\bin\Debug\net8.0\Reusable Method.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\refint\Reusable Method.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\Reusable Method.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Reusable Method\obj\Debug\net8.0\ref\Reusable Method.dll
