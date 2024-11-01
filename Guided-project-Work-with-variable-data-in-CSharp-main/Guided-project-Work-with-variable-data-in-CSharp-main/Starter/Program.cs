@@ -164,12 +164,12 @@ do
                     {
                         if (uniqueLoop != dogCharacteristic)
                         {
-                            for (int j = 5; j > -1; j--)
+                            for (int j = 2; j > -1; j--)
                             {
                                 foreach (string icon in searchingIcons)
                                 {
                                     Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon}");
-                                    Thread.Sleep(250);
+                                    Thread.Sleep(100);
                                 }
                                 Console.Write($"\r{new String(' ', Console.BufferWidth)}");
                             }
