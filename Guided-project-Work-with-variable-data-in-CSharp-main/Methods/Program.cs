@@ -1,17 +1,24 @@
 ﻿
 using CheckValidIP;
 
-string ipv4Input = "107.31.1.5";
-bool response = CheckIP.CalculateNumbers(ipv4Input);
+string[] ipv4Input = ["107.31.1.5", "255.0.0.255", "555..0.555", "255...255"];
 
-if (response)
+foreach (string input in ipv4Input)
 {
-    Console.WriteLine($"ip is a valid IPv4 address");
+    bool response = CheckIP.CalculateNumbers(input);
+
+    if (response)
+    {
+        Console.WriteLine($"the IP {input} is a valid IPv4 address");
+    }
+    else
+    {
+        Console.WriteLine($"the IP {input} is an invalid IPv4 address");
+    }
 }
-else
-{
-    Console.WriteLine($"ip is an invalid IPv4 address");
-}
+
+
+
 /*
 
 int[] times = { 800, 1200, 1600, 2000 };

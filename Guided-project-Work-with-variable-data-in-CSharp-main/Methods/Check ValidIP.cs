@@ -6,7 +6,7 @@ namespace CheckValidIP
     {
         public static bool CalculateNumbers(string ipv4Input)
         {
-            string[] inputItems = ipv4Input.Split('.');
+            string[] inputItems = ipv4Input.Split('.', StringSplitOptions.RemoveEmptyEntries);
 
             if (ValidateLength(inputItems) && ValidateZeroes(inputItems) && ValidateRange(inputItems))
             {
