@@ -1,4 +1,18 @@
 ﻿
+using CheckValidIP;
+
+string ipv4Input = "107.31.1.5";
+bool response = CheckIP.CalculateNumbers(ipv4Input);
+
+if (response)
+{
+    Console.WriteLine($"ip is a valid IPv4 address");
+}
+else
+{
+    Console.WriteLine($"ip is an invalid IPv4 address");
+}
+/*
 
 int[] times = { 800, 1200, 1600, 2000 };
 int diff = 0;
@@ -34,7 +48,6 @@ DisplayTimes();
 
 void DisplayTimes()
 {
-    /* Format and display medicine times */
     foreach (int val in times)
     {
         string time = val.ToString();
@@ -60,14 +73,13 @@ void DisplayTimes()
 
 void AdjustTimes()
 {
-    /* Adjust the times by adding the difference, keeping the value within 24 hours */
     for (int i = 0; i < times.Length; i++)
     {
         times[i] = ((times[i] + diff)) % 2400;
     }
 }
 
-
+*/
 /*
 
 void DisplayRandomNumber()
