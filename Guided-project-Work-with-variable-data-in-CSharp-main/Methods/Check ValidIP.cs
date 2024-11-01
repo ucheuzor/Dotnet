@@ -30,7 +30,7 @@ namespace CheckValidIP
                 string currentItem = inputItem[i];
                 if (currentItem != "")
                 {
-                    if (currentItem.Trim().StartsWith('0'))
+                    if (currentItem.Trim().StartsWith('0') && currentItem.Length > 1)
                     {
                         return false;
                     }
