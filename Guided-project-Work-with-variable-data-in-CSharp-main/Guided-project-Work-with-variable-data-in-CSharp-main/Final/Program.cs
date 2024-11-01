@@ -82,8 +82,9 @@ for (int i = 0; i < maxPets; i++)
     ourAnimals[i, 3] = "Nickname: " + animalNickname;
     ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
-    
-    if (!decimal.TryParse(suggestedDonation, out decimalDonation)){
+
+    if (!decimal.TryParse(suggestedDonation, out decimalDonation))
+    {
         decimalDonation = 45.00m; // if suggestedDonation NOT a number, default to 45.00
     }
     ourAnimals[i, 6] = $"Suggested Donation: {decimalDonation:C2}";
@@ -146,6 +147,8 @@ do
 
             bool noMatchesDog = true;
             string dogDescription = "";
+            // #4 update to "rotating" animation with countdown
+            string[] searchingIcons = [". ", ".. ", "... "];
 
             // #6 loop through the ourAnimals array to search for matching animals
             for (int i = 0; i < maxPets; i++)
@@ -154,12 +157,12 @@ do
 
                 if (ourAnimals[i, 1].Contains("dog"))
                 {
-                    
+
                     if (dogMatch == true)
                     {
                         // #7 Search combined descriptions and report results
                         dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
-                        
+
 
                         if (dogDescription.Contains(dogCharacteristic))
                         {
