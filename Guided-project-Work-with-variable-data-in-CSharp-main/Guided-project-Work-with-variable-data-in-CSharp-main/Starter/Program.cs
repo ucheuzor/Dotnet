@@ -126,8 +126,9 @@ do
             break;
 
         case "2":
-
             string dogCharacteristics = "";
+            string dogDescription = "";
+            bool noMatchesDog = true;
 
             while (dogCharacteristics == "")
             {
@@ -144,12 +145,27 @@ do
             {
                 if (ourAnimals[i, 1].Contains("dog"))
                 {
+                    dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
 
+                    if (dogDescription.Contains(dogCharacteristics))
+                    {
+                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match");
+                        Console.WriteLine(dogDescription);
+
+                        noMatchesDog = false;
+                    }
 
                 }
 
             }
 
+            if (noMatchesDog)
+            {
+                Console.WriteLine("None of our dogs are a match found for: " + dogCharacteristics);
+            }
+
+
+            Console.WriteLine("");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
