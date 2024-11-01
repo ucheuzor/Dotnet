@@ -27,9 +27,18 @@ namespace CheckValidIP
         {
             for (int i = 0; i < inputItem.Length; i++)
             {
-                string getFirstCharacter = inputItem[i].Substring(0);
+                string currentItem = inputItem[i];
+                if (currentItem != "")
+                {
+                    string getFirstCharacter = currentItem.Substring(0);
 
-                if (getFirstCharacter.Trim() == "0")
+                    if (getFirstCharacter.Trim() == "0")
+                    {
+                        return false;
+                    }
+
+                }
+                else
                 {
                     return false;
                 }
