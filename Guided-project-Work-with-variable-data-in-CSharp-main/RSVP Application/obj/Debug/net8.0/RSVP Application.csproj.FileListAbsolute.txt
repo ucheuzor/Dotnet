@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\bin\Debug\net8.0\RSVP Application.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\bin\Debug\net8.0\RSVP Application.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\bin\Debug\net8.0\RSVP Application.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\bin\Debug\net8.0\RSVP Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\bin\Debug\net8.0\RSVP Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\refint\RSVP Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\RSVP Application.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\RSVP Application\obj\Debug\net8.0\ref\RSVP Application.dll
