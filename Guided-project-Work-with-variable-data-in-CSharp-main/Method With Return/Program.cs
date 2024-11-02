@@ -1,4 +1,36 @@
-﻿
+﻿//C# application to print the index of items where the sum of 2 items within the array matches the target point
+int target = 60;
+int[] coins = [5, 5, 50, 25, 25, 10, 5];
+int[] result = TwoCoins(coins, target);
+
+if (result.Length == 0)
+{
+    Console.WriteLine("No two coins make change");
+}
+else
+{
+    Console.WriteLine($"Change found at positions {result[0]} and {result[1]}");
+}
+
+
+int[] TwoCoins(int[] coins, int target)
+{
+    for (int i = 0; i < coins.Length; i++)
+    {
+
+        for (int j = i + 1; j < coins.Length; j++)
+        {
+            int sumOfSuccessiveCoins = coins[i] + coins[j];
+
+            if (sumOfSuccessiveCoins == target)
+                return [i, j];
+        }
+    }
+    return [];
+}
+
+/*
+
 //C# code to check if words within an array is a pallindrome
 string[] words = { "racecar", "talented", "deified", "tent", "tenet" };
 
@@ -24,8 +56,6 @@ bool IsPalindrome(string word)
     return false;
 }
 
-
-/*
 
 // C# code to reverse a sentence
 string name = "there are snakes at the zoo";
