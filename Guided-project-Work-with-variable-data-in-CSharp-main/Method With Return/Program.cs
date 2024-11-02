@@ -1,4 +1,28 @@
 ﻿
+//C# Program that converts US Dollars to Vietnamese Dollars
+double usd = 23.73;
+int vndDefault = 150000;
+int vnd = UsdToVnD(usd);
+double vndToUsd = VndToUsd(vndDefault);
+
+Console.WriteLine($"${usd} USD = ${vnd} VND");
+Console.WriteLine($"${vndDefault} VND = ${vndToUsd.ToString().Substring(0, 4)} USD");
+
+int UsdToVnD(double usd)
+{
+    int rate = 23500;
+
+    return (int)(rate * usd);
+}
+
+//C# Program that converts Vietnamese Dollars to US Dollars
+double VndToUsd(int vnd)
+{
+    double rate = 23500;
+    return vnd / rate;
+}
+
+/*
 double total = 0;
 double minimumSpend = 30.00;
 
@@ -35,3 +59,4 @@ string FormatDecimal(double input)
     // Format the double so only 2 decimal places are displayed
     return input.ToString().Substring(0, 5);
 }
+*/
