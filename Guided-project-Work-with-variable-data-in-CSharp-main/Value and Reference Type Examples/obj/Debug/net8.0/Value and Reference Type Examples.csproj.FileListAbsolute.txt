@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\bin\Debug\net8.0\Value and Reference Type Examples.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\bin\Debug\net8.0\Value and Reference Type Examples.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\bin\Debug\net8.0\Value and Reference Type Examples.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\bin\Debug\net8.0\Value and Reference Type Examples.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\bin\Debug\net8.0\Value and Reference Type Examples.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\refint\Value and Reference Type Examples.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\Value and Reference Type Examples.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Value and Reference Type Examples\obj\Debug\net8.0\ref\Value and Reference Type Examples.dll
