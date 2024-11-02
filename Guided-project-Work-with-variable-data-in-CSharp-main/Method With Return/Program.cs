@@ -1,4 +1,28 @@
 ﻿
+
+
+/*
+
+// C# code to reverse a sentence
+string name = "there are snakes at the zoo";
+string reversedWord = ReverseWord(name);
+
+Console.WriteLine($"The Reverse of {name} is {reversedWord}");
+
+
+string ReverseWord(string word)
+{
+    char[] splitWord = word.ToCharArray();
+    string result = "";
+
+    for (int i = splitWord.Length - 1; i >= 0; i--)
+    {
+        result += splitWord[i].ToString();
+    }
+
+    return result;
+}
+
 //C# Program that converts US Dollars to Vietnamese Dollars
 double usd = 23.73;
 int vndDefault = 150000;
@@ -21,8 +45,7 @@ double VndToUsd(int vnd)
     double rate = 23500;
     return vnd / rate;
 }
-
-/*
+//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 double total = 0;
 double minimumSpend = 30.00;
 
