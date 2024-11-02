@@ -1,5 +1,5 @@
 ﻿
-int[] schedule = { 800, 1200, 1600, 2000 };
+int[] schedule = [800, 1200, 1600, 2000];
 
 DisplayAdjustedTimes(schedule, 6, -6);
 
@@ -26,6 +26,23 @@ void DisplayAdjustedTimes(int[] times, int currentGMT, int newGMT)
         int newTime = (times[i] + diff) % 2400;
         Console.WriteLine($"{times[i]} -> {newTime}");
     }
+}
+
+Console.WriteLine("- - - - - - - - - - - - - -  - -");
+
+string[] students = ["Jenna", "Ayesha", "Carlos", "Viktor"];
+
+DisplayStudents(students);
+DisplayStudents(["Robert", "Vanya"]);
+
+
+void DisplayStudents(string[] students)
+{
+    foreach (string student in students)
+    {
+        Console.Write($"{student}, ");
+    }
+    Console.WriteLine();
 }
 
 /*

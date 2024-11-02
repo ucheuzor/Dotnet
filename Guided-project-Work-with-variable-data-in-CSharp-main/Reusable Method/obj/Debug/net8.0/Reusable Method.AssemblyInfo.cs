@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reusable Method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+256cb2605dde2a29c96d491e98c2793db366feae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91ff8343737d309a99354e01ce2645db043aecf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reusable Method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reusable Method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
