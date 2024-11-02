@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\bin\Debug\net8.0\Method With Return.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\bin\Debug\net8.0\Method With Return.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\bin\Debug\net8.0\Method With Return.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\bin\Debug\net8.0\Method With Return.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\bin\Debug\net8.0\Method With Return.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\refint\Method With Return.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\Method With Return.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Method With Return\obj\Debug\net8.0\ref\Method With Return.dll
