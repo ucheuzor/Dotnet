@@ -1,4 +1,8 @@
-﻿
+﻿/*Given a MultiDimenstion array of emails, I wrote a method to retrieve the first 2 letter of the firstname, combine it with the lastname,
+ then form an email using a the company domain
+ */
+
+
 string[,] corporate =
 {
     {"Robert", "Bavin"}, {"Simon", "Bright"},
@@ -13,12 +17,30 @@ string[,] external =
 };
 
 string externalDomain = "hayworth.com";
-string internalDomain = "contoso.com";
 
-GenerateInternalEmailAddress(corporate, external, internalDomain, externalDomain);
+for (int i = 0; i < corporate.GetLength(0); i++)
+{
+    GenerateEmailAddress(corporate[i, 0], corporate[i, 1]);
+}
+
+for (int i = 0; i < external.GetLength(0); i++)
+{
+    GenerateEmailAddress(corporate[i, 0], corporate[i, 1], externalDomain);
+}
+
+//Define the method to generate the email address
+void GenerateEmailAddress(string firstname, string lastname, string domain = "contoso.com")
+{
+    string extractedFirstName = firstname.ToLower().Substring(0, 2);
+    string lastName = lastname.ToLower();
+    string emailAddress = $"{extractedFirstName}{lastName}@{domain}";
+
+    Console.WriteLine(emailAddress);
+}
 
 
-void GenerateInternalEmailAddress(string[,] corporateEmails, string[,] externalEmails, string internalDomain, string externalDomain = "microsoft")
+/*
+void GenerateEmailAddress(string[,] corporateEmails, string[,] externalEmails, string internalDomain, string externalDomain = "microsoft")
 {
 
     for (int i = 0; i < corporateEmails.GetLength(0); i++)
@@ -40,3 +62,5 @@ void GenerateInternalEmailAddress(string[,] corporateEmails, string[,] externalE
         Console.WriteLine(emailAddress);
     }
 }
+
+*/
