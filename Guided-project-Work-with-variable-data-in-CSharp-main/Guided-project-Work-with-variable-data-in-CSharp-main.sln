@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVP Application", "RSVP Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email Generator", "Email Generator\Email Generator.csproj", "{2885DFA0-6D60-4EAB-AD35-5B7BF00B11B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method With Return", "Method With Return\Method With Return.csproj", "{4E5E2089-6185-4B4C-B5A3-F1AF2109A7F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{2885DFA0-6D60-4EAB-AD35-5B7BF00B11B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2885DFA0-6D60-4EAB-AD35-5B7BF00B11B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2885DFA0-6D60-4EAB-AD35-5B7BF00B11B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5E2089-6185-4B4C-B5A3-F1AF2109A7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5E2089-6185-4B4C-B5A3-F1AF2109A7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5E2089-6185-4B4C-B5A3-F1AF2109A7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5E2089-6185-4B4C-B5A3-F1AF2109A7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
