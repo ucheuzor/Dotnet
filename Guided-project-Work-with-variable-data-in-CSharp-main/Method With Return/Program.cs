@@ -1,4 +1,28 @@
 ﻿
+//C# code to check if words within an array is a pallindrome
+string[] words = { "racecar", "talented", "deified", "tent", "tenet" };
+
+Console.WriteLine("Is it a palindrome?");
+foreach (string word in words)
+{
+    Console.WriteLine($"{word}: {IsPalindrome(word)}");
+}
+
+bool IsPalindrome(string word)
+{
+    char[] splitedWord = word.Trim().ToCharArray();
+    string reversedString = "";
+
+    for (int i = splitedWord.Length - 1; i >= 0; i--)
+    {
+        reversedString += splitedWord[i];
+    }
+
+    if (reversedString == word)
+        return true;
+
+    return false;
+}
 
 
 /*
