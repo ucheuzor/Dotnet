@@ -3,7 +3,7 @@ int target = 60;
 int[] coins = [5, 5, 50, 25, 25, 10, 5];
 int[,] outcome = TwoCoins(coins, target);
 
-if (outcome.Length == 0)
+if (outcome.GetLength(0) == 0)
 {
     Console.WriteLine("No two coins make change");
 }
