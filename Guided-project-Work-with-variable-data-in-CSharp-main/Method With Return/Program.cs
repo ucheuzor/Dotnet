@@ -1,5 +1,5 @@
 ﻿//C# application to print the index of items where the sum of 2 items within the array matches the target point
-int target = 60;
+int target = 30;
 int[] coins = [5, 5, 50, 25, 25, 10, 5];
 int[,] outcome = TwoCoins(coins, target);
 
@@ -11,7 +11,7 @@ else
 {
     Console.WriteLine($"Change found at positions:");
 
-    for (int i = 0; i < outcome.Length; i++)
+    for (int i = 0; i < outcome.GetLength(0); i++)
     {
         if (outcome[i, 0] == -1)
         {
