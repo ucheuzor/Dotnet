@@ -1,32 +1,55 @@
 ﻿//C# application to print the index of items where the sum of 2 items within the array matches the target point
 int target = 60;
 int[] coins = [5, 5, 50, 25, 25, 10, 5];
-int[] result = TwoCoins(coins, target);
+int[,] outcome = TwoCoins(coins, target);
 
-if (result.Length == 0)
+if (outcome.Length == 0)
 {
     Console.WriteLine("No two coins make change");
 }
 else
 {
-    Console.WriteLine($"Change found at positions {result[0]} and {result[1]}");
+    Console.WriteLine($"Change found at positions:");
+
+    for (int i = 0; i < outcome.Length; i++)
+    {
+        if (outcome[i, 0] == -1)
+        {
+            break;
+        }
+        Console.WriteLine($"{outcome[i, 0]},{outcome[i, 1]}");
+    }
 }
 
 
-int[] TwoCoins(int[] coins, int target)
+int[,] TwoCoins(int[] coins, int target)
 {
-    for (int i = 0; i < coins.Length; i++)
+    int[,] result = { { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 } };
+    int count = 0;
+
+    for (int curr = 0; curr < coins.Length; curr++)
     {
 
-        for (int j = i + 1; j < coins.Length; j++)
+        for (int next = curr + 1; next < coins.Length; next++)
         {
-            int sumOfSuccessiveCoins = coins[i] + coins[j];
+            int sumOfSuccessiveCoins = coins[curr] + coins[next];
 
             if (sumOfSuccessiveCoins == target)
-                return [i, j];
+            {
+                result[count, 0] = curr;
+                result[count, 1] = next;
+                count++;
+
+            }
+
+            if (count == result.GetLength(0))
+            {
+                return result;
+            }
+
         }
     }
-    return [];
+    return (count == 0) ? new int[0, 0] : result;
 }
 
 /*
