@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\bin\Debug\net8.0\Mini Dice Game.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\bin\Debug\net8.0\Mini Dice Game.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\bin\Debug\net8.0\Mini Dice Game.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\bin\Debug\net8.0\Mini Dice Game.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\bin\Debug\net8.0\Mini Dice Game.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\refint\Mini Dice Game.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\Mini Dice Game.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Dice Game\obj\Debug\net8.0\ref\Mini Dice Game.dll
