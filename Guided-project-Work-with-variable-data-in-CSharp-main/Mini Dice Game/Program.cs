@@ -35,9 +35,8 @@ void WinOrLose(int roll, int target)
     do
     {
         response = Console.ReadLine();
-        int outcome = 0;
 
-        if (int.TryParse(response, out outcome))
+        if (int.TryParse(response, out int outcome))
         {
             if (outcome < 1 || outcome > 6)
             {
