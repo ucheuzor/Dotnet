@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\bin\Debug\net8.0\Mini Game Project.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\bin\Debug\net8.0\Mini Game Project.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\bin\Debug\net8.0\Mini Game Project.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\bin\Debug\net8.0\Mini Game Project.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\bin\Debug\net8.0\Mini Game Project.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\refint\Mini Game Project.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\Mini Game Project.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Mini Game Project\obj\Debug\net8.0\ref\Mini Game Project.dll
