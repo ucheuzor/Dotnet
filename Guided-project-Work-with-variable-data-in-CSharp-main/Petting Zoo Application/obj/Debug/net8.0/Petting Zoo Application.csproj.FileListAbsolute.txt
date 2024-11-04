@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\bin\Debug\net8.0\Petting Zoo Application.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\bin\Debug\net8.0\Petting Zoo Application.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\bin\Debug\net8.0\Petting Zoo Application.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\bin\Debug\net8.0\Petting Zoo Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\bin\Debug\net8.0\Petting Zoo Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\refint\Petting Zoo Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\Petting Zoo Application.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Petting Zoo Application\obj\Debug\net8.0\ref\Petting Zoo Application.dll
