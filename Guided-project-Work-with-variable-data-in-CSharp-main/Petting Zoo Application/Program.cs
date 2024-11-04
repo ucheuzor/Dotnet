@@ -17,7 +17,10 @@ foreach (string animal in pettingZoo)
     Console.WriteLine(animal);
 }
 
-// PrintGroup(group);
+void PrintGroup(string[,] group)
+{
+
+};
 
 void RandomizeAnimals()
 {

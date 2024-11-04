@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Dice Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d66498e57f8c7f3f53095b32fbc5dab0912480")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8cf6ea8be8885fe574994b06e5c6a8d0ddf0a3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Dice Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Dice Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
