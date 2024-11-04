@@ -8,7 +8,7 @@ string[] pettingZoo =
 
 RandomizeAnimals();
 
-// string[,] group = AssignGroup();
+string[,] group = AssignGroup();
 
 Console.WriteLine("School A");
 
@@ -32,3 +32,11 @@ void RandomizeAnimals()
         pettingZoo[r] = temp;
     }
 };
+
+//groups parameter define the number of groups we want to create. pettingZoo.Length / groups defines the number of animals to add to each groups.
+string[,] AssignGroup(int groups = 6)
+{
+    string[,] result = new string[groups, pettingZoo.Length / groups];
+
+    return result;
+}
