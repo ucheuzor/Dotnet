@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method With Return", "Metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Dice Game", "Mini Dice Game\Mini Dice Game.csproj", "{FBA8B1A7-AECE-4AD3-BF64-928B107AD4F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petting Zoo Application", "Petting Zoo Application\Petting Zoo Application.csproj", "{16E9D871-2504-46E5-AE21-C2C7B0CD6748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{FBA8B1A7-AECE-4AD3-BF64-928B107AD4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA8B1A7-AECE-4AD3-BF64-928B107AD4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA8B1A7-AECE-4AD3-BF64-928B107AD4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E9D871-2504-46E5-AE21-C2C7B0CD6748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E9D871-2504-46E5-AE21-C2C7B0CD6748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E9D871-2504-46E5-AE21-C2C7B0CD6748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E9D871-2504-46E5-AE21-C2C7B0CD6748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
