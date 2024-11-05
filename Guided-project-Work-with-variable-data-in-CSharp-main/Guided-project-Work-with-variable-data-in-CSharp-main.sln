@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petting Zoo Application", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Game Project", "Mini Game Project\Mini Game Project.csproj", "{05CDF144-738D-46C1-92E2-4513C9383611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{FEA48F96-7538-423B-BDA4-123FE95EC1D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{05CDF144-738D-46C1-92E2-4513C9383611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05CDF144-738D-46C1-92E2-4513C9383611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05CDF144-738D-46C1-92E2-4513C9383611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

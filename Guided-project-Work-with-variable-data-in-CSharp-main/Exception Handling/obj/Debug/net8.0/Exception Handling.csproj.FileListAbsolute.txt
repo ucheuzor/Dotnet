@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\bin\Debug\net8.0\Exception Handling.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\bin\Debug\net8.0\Exception Handling.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\bin\Debug\net8.0\Exception Handling.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\bin\Debug\net8.0\Exception Handling.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\bin\Debug\net8.0\Exception Handling.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\refint\Exception Handling.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\Exception Handling.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\Exception Handling\obj\Debug\net8.0\ref\Exception Handling.dll
