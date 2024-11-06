@@ -1,21 +1,52 @@
-﻿
-string[][] userEnteredValues = [["1", "two", "3"], ["0", "1", "2"]];
-
-foreach (string[] userEntries in userEnteredValues)
+﻿try
 {
-    try
-    {
-        BusinessProcess1(userEntries);
-    }
-    catch (Exception ex)
-    {
+    OperatingProcedure1();
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+    Console.WriteLine("Exiting application.");
+}
 
-#pragma warning disable CS8602 // Dereference of a possibly null reference.
-        if (ex.StackTrace.Contains("BusinessProcess1") && (ex is FormatException))
+static void OperatingProcedure1()
+{
+    string[][] userEnteredValues =
+    [
+        ["1", "two", "3"],
+        ["0", "1", "2"]
+    ];
+
+    foreach (string[] userEntries in userEnteredValues)
+    {
+        try
         {
-            Console.WriteLine(ex.Message);
+            BusinessProcess1(userEntries);
         }
-#pragma warning restore CS8602 // Dereference of a possibly null reference.
+        catch (Exception ex)
+        {
+            if (ex.StackTrace.Contains("BusinessProcess1"))
+            {
+                if (ex is FormatException)
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.WriteLine("Corrective action taken in OperatingProcedure1");
+                }
+                else if (ex is DivideByZeroException)
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.WriteLine("Partial correction in OperatingProcedure1 - further action required");
+
+                    // re-throw the original exception
+                    throw;
+                }
+                else
+                {
+                    // create a new exception object that wraps the original exception
+                    throw new ApplicationException("An error occurred - ", ex);
+                }
+            }
+        }
+
     }
 }
 
@@ -28,12 +59,22 @@ static void BusinessProcess1(string[] userEntries)
         try
         {
             valueEntered = int.Parse(userValue);
+
+            checked
+            {
+                int calculatedValue = 4 / valueEntered;
+            }
         }
         catch (FormatException)
         {
-
             FormatException invalidFormatException = new FormatException("FormatException: User input values in 'BusinessProcess1' must be valid integers");
             throw invalidFormatException;
+        }
+        catch (DivideByZeroException)
+        {
+            DivideByZeroException unexpectedDivideByZeroException = new DivideByZeroException("DivideByZeroException: Calculation in 'BusinessProcess1' encountered an unexpected divide by zero");
+            throw unexpectedDivideByZeroException;
+
         }
     }
 }
