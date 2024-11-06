@@ -1,4 +1,45 @@
-﻿checked
+﻿
+string[][] userEnteredValues = [["1", "two", "3"], ["0", "1", "2"]];
+
+foreach (string[] userEntries in userEnteredValues)
+{
+    try
+    {
+        BusinessProcess1(userEntries);
+    }
+    catch (Exception ex)
+    {
+
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
+        if (ex.StackTrace.Contains("BusinessProcess1") && (ex is FormatException))
+        {
+            Console.WriteLine(ex.Message);
+        }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
+    }
+}
+
+static void BusinessProcess1(string[] userEntries)
+{
+    int valueEntered;
+
+    foreach (string userValue in userEntries)
+    {
+        try
+        {
+            valueEntered = int.Parse(userValue);
+        }
+        catch (FormatException)
+        {
+
+            FormatException invalidFormatException = new FormatException("FormatException: User input values in 'BusinessProcess1' must be valid integers");
+            throw invalidFormatException;
+        }
+    }
+}
+
+/*
+checked
 {
     try
     {
@@ -51,7 +92,8 @@ catch (DivideByZeroException ex)
 }
 
 Console.WriteLine("Exiting program.");
-/*
+
+
 try
 {
     Process1();
