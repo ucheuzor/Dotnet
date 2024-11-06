@@ -33,7 +33,7 @@ do
         else
         {
             exit = false;
-            upperBound = int.Parse(Console.ReadLine());
+            upperBound = int.Parse(userResponse);
         }
     }
 } while (exit == false);
