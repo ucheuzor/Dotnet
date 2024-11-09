@@ -10,11 +10,11 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/Exception Handling/bin/Debug/net8.0/Exception Handling.dll",
+      "program": "${workspaceFolder}/MiniPOS Application/bin/Debug/net8.0/MiniPOS Application.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/Exception Handling",
+      "cwd": "${workspaceFolder}/MiniPOS Application",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-      "console": "integratedTerminal",
+      "console": "internalConsole",
       "stopAtEntry": false
     },
     {

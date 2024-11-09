@@ -1,0 +1,15 @@
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\bin\Debug\net8.0\MiniPOS Application.exe
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\bin\Debug\net8.0\MiniPOS Application.deps.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\bin\Debug\net8.0\MiniPOS Application.runtimeconfig.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\bin\Debug\net8.0\MiniPOS Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\bin\Debug\net8.0\MiniPOS Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.AssemblyInfoInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.AssemblyInfo.cs
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.csproj.CoreCompileInputs.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.sourcelink.json
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\refint\MiniPOS Application.dll
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.pdb
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\MiniPOS Application.genruntimeconfig.cache
+C:\Users\Urchy\Desktop\Dotnet\Guided-project-Work-with-variable-data-in-CSharp-main\MiniPOS Application\obj\Debug\net8.0\ref\MiniPOS Application.dll
