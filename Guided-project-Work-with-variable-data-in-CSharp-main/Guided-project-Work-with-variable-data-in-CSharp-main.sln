@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Game Project", "Mini G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{FEA48F96-7538-423B-BDA4-123FE95EC1D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini POS Application", "Mini POS Application\Mini POS Application.csproj", "{F18D1AE5-3DA9-495D-95A8-21E34A39B5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPOS Application", "MiniPOS Application\MiniPOS Application.csproj", "{AE86BEB3-40F5-4A28-9D29-515B2816E2B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,14 @@ Global
 		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA48F96-7538-423B-BDA4-123FE95EC1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18D1AE5-3DA9-495D-95A8-21E34A39B5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18D1AE5-3DA9-495D-95A8-21E34A39B5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18D1AE5-3DA9-495D-95A8-21E34A39B5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18D1AE5-3DA9-495D-95A8-21E34A39B5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE86BEB3-40F5-4A28-9D29-515B2816E2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE86BEB3-40F5-4A28-9D29-515B2816E2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE86BEB3-40F5-4A28-9D29-515B2816E2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE86BEB3-40F5-4A28-9D29-515B2816E2B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
